@@ -18,7 +18,7 @@ Adfuller(ADF) test is performed on the sales data to check if data is stationary
 
 Summerised data:
 
-![alt text](img1url)
+![alt text](https://github.com/RAJSHREE27/Sales_Forecasting/blob/master/IMG1.png)
 
 ### ARIMA 
 
@@ -65,4 +65,4 @@ SARIMA(p,d,q)(P,D,Q)m
 
 The final sales forecast after applying SARIMAX comes to be this:
 
-![alt text](img2url)
+![alt text](https://github.com/RAJSHREE27/Sales_Forecasting/blob/master/IMG2.png)
